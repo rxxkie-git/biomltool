@@ -99,5 +99,5 @@ jupyter nbextension enable --py widgetsnbextension
 
 ---
 
-**📝 Author**: [Your Name Here]  
+**📝 Author**: Srinand  
 **📅 Last Updated**: June 2025
