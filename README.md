@@ -84,7 +84,7 @@ jupyter nbextension enable --py widgetsnbextension
 - **Species**: Tiger  
 - **Year**: 2020  
 - → The model will predict if tigers were endangered in 2020 and whether they might go extinct in the next 50 years based on trends.
-- ![Demo output] (blob:https://web.whatsapp.com/aa2b4d03-9d2b-48c1-89a2-68d2d02a09c8)
+- ![Demo output] (file:///C:/Users/saisr/Downloads/WhatsApp%20Image%202025-06-07%20at%2023.33.59.jpeg)
 
 ---
 
