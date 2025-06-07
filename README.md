@@ -81,10 +81,11 @@ jupyter nbextension enable --py widgetsnbextension
 
 ## 🐾 Example Use Case
 
-- **Species**: Tiger  
-- **Year**: 2020  
+- **Species**: Elephant 
+- **Year**: 2012 
 - → The model will predict if tigers were endangered in 2020 and whether they might go extinct in the next 50 years based on trends.
-- ![Demo output] (file:///C:/Users/saisr/Downloads/WhatsApp%20Image%202025-06-07%20at%2023.33.59.jpeg)
+- ![Demo Output](https://github.com/user-attachments/assets/c5b6172d-0766-4a77-a84d-6281e0157b1d)
+ds/WhatsApp%20Image%202025-06-07%20at%2023.33.59.jpeg)
 
 ---
 
